@@ -1,0 +1,9 @@
+com\klyma\crud\domain\Employee.class
+com\klyma\crud\CrudApp.class
+com\klyma\crud\domain\Department.class
+com\klyma\crud\repository\EmployeeRepository.class
+com\klyma\crud\service\DepartmentService.class
+com\klyma\crud\rest\DepartmentResource.class
+com\klyma\crud\service\EmployeeService.class
+com\klyma\crud\rest\EmployeeResource.class
+com\klyma\crud\repository\DepartmentRepository.class

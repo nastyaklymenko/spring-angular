@@ -1,0 +1,9 @@
+D:\crud-master\src\main\java\com\klyma\crud\rest\EmployeeResource.java
+D:\crud-master\src\main\java\com\klyma\crud\domain\Employee.java
+D:\crud-master\src\main\java\com\klyma\crud\CrudApp.java
+D:\crud-master\src\main\java\com\klyma\crud\rest\DepartmentResource.java
+D:\crud-master\src\main\java\com\klyma\crud\repository\DepartmentRepository.java
+D:\crud-master\src\main\java\com\klyma\crud\domain\Department.java
+D:\crud-master\src\main\java\com\klyma\crud\service\DepartmentService.java
+D:\crud-master\src\main\java\com\klyma\crud\service\EmployeeService.java
+D:\crud-master\src\main\java\com\klyma\crud\repository\EmployeeRepository.java
