@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb0d7404-1eca-4741-aab8-b4c5cef6c41b" name="Default" comment="" />
+    <list default="true" id="bb0d7404-1eca-4741-aab8-b4c5cef6c41b" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -173,7 +175,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
     <option name="width" value="978" />
     <option name="height" value="1039" />
@@ -384,12 +386,12 @@
       <updated>1541503970237</updated>
       <workItem from="1541503975251" duration="5495000" />
       <workItem from="1541753013563" duration="16854000" />
-      <workItem from="1541777843989" duration="1723000" />
+      <workItem from="1541777843989" duration="1972000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24072000" />
+    <option name="totallyTimeSpent" value="24321000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
